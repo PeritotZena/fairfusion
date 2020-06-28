@@ -1,1 +1,5 @@
 # fairfusion
+
+#Hardware 
+- Adafruit
+- Rdruino
