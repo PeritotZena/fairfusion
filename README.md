@@ -1,5 +1,5 @@
 # Fairfusion
-This program is used written for FairFusion as part of their research program. It is used to register temperature measurements over time.
+This program is written for FairFusion as part of their research program. It is used to register temperature measurements over time.
 
 ## Hardware 
 - Adafruit
