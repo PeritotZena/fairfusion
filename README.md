@@ -14,6 +14,11 @@ Install the necessary packages
 
 pip3 install adafruit-circuitpython-mcp9600
 
+## How to use
+cd to the folder you have cloned
+
+python temp.py
+
 ## License
 Copyright 2020 FairFusion
 
