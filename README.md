@@ -1,11 +1,11 @@
-# fairfusion
+# Fairfusion
 This program is used written for FairFusion as part of their research program. It is used to register temperature measurements over time.
 
 #Hardware 
 - Adafruit
 - Rdruino
 
-##
+##Installation
 Create a virtual environment:
 
 conda create -n laser python=3.6
