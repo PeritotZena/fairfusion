@@ -5,7 +5,7 @@ This program is used written for FairFusion as part of their research program. I
 - Adafruit
 - Rdruino
 
-##Installation
+###### Installation
 Create a virtual environment:
 
 conda create -n laser python=3.6
